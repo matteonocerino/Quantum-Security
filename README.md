@@ -53,7 +53,7 @@ La seconda parte affronta la protezione del Secret Sharing in ambienti Cloud dis
 
 Tutto il codice è scritto in **Python 3.x**. 
 
-*   **Parte 1:** Estrai il dataset dal file `.zip` prima dell'esecuzione. I modelli pre-addestrati e i dati scalati sono disponibili in formato `.pkl` per caricare e analizzare i risultati senza rieseguire le simulazioni quantistiche (che richiedono molto tempo).
+*   **Parte 1:** Estrai il dataset dal file `.zip` prima dell'esecuzione. I modelli pre-addestrati e i dati scalati sono disponibili in formato `.pkl` per caricare e analizzare i risultati senza rieseguire le simulazioni quantistiche (che richiedono tempo).
 *   **Parte 2:** È possibile lanciare `python3 m2m_mqss.py` per avviare una nuova simulazione su NetSquid, oppure usare il flag `--plot` per ricaricare i dati da `results.json` e rigenerare i grafici in tempo reale.
 
 ## ✍️ Autore
