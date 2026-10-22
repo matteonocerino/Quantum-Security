@@ -1,0 +1,5 @@
+Configurazione,QSVC Accuracy,QSVC F1,QSVC Tempo (s),VQC Accuracy,VQC F1,VQC Tempo (s)
+"reps=1, linear",0.58,0.5625,432.6,0.53,0.3733,488.6
+"reps=2, linear",0.54,0.4651,606.0,0.54,0.3611,583.6
+"reps=2, circular",0.59,0.5393,641.4,0.49,0.427,582.5
+"reps=2, full",0.52,0.4667,911.5,0.49,0.4396,610.0
