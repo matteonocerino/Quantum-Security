@@ -5,9 +5,9 @@
 [![NetSquid](https://img.shields.io/badge/NetSquid-Simulation-green.svg)](https://netsquid.org/)
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine_Learning-orange.svg)](https://scikit-learn.org/)
 
-Questo repository contiene il progetto d'esame per il corso di **Tecnologie Quantistiche per la Sicurezza** (Laurea Magistrale in Sicurezza Informatica presso l'Università degli Studi di Salerno - UNISA). 
+Questo repository contiene un progetto di ricerca applicata sulle Tecnologie Quantistiche per la Sicurezza, sviluppato come approfondimento avanzato durante il percorso di Laurea Magistrale in Sicurezza Informatica (UNISA).
 
-Il lavoro esplora l'applicazione pratica del Quantum Computing e del Quantum Machine Learning (QML) a problemi reali di cybersecurity, con un approccio critico focalizzato sui vantaggi teorici e le attuali limitazioni hardware (NISQ). Il progetto è suddiviso in due moduli.
+Il lavoro esplora l'applicazione pratica del Quantum Computing e del Quantum Machine Learning (QML) a problemi reali di cybersecurity, con un approccio critico focalizzato sui vantaggi teorici e le attuali limitazioni hardware (NISQ). Il progetto è suddiviso in due moduli indipendenti.
 
 ---
 
