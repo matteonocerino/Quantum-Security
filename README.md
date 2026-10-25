@@ -1,4 +1,4 @@
-# 🔐 Tecnologie Quantistiche per la Sicurezza - UNISA
+# 🔐 Tecnologie Quantistiche per la Sicurezza 
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![Qiskit](https://img.shields.io/badge/Qiskit-Aer-purple.svg)](https://qiskit.org/)
