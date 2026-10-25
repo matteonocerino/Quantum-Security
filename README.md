@@ -57,5 +57,4 @@ Tutto il codice è scritto in **Python 3.x**.
 *   **Parte 2:** È possibile lanciare `python3 m2m_mqss.py` per avviare una nuova simulazione su NetSquid, oppure usare il flag `--plot` per ricaricare i dati da `results.json` e rigenerare i grafici in tempo reale.
 
 ## ✍️ Autore
-**Matteo Nocerino**  
-*Studente di Laurea Magistrale in Sicurezza Informatica - Università degli Studi di Salerno.*
+**Matteo Nocerino** 
